@@ -6,7 +6,7 @@
 
 <script lang="ts">
 import { Vue, Options } from 'vue-class-component'
-import ListPlants from '@/components/ui/ListPlants.vue'
+import ListPlants from '@/views/home/components/ListPlants.vue'
 
 @Options({
   components: {
